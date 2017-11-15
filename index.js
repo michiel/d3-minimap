@@ -1,1 +1,1 @@
-export {default as minimap} from "./src/minimap";
+export {default } from "./src/minimap";

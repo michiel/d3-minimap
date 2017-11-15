@@ -21,6 +21,7 @@
     "postpublish": "zip -j build/d3-minimap.zip -- LICENSE README.md build/d3-minimap.js build/d3-minimap.min.js"
   },
   "devDependencies": {
+    "jsdom": "^11.3.0",
     "rollup": "0.27",
     "tape": "4",
     "uglify-js": "2"
